@@ -1,0 +1,28 @@
+{
+  "name": "coco-chanel-quotes",
+  "version": "1.0.0",
+  "description": "backend for Coco Chanel Quotes app for Slack",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jspinella/coco-chanel-quotes.git"
+  },
+  "keywords": [
+    "coco",
+    "chanel",
+    "quotes",
+    "app",
+    "slack"
+  ],
+  "author": "jspinella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jspinella/coco-chanel-quotes/issues"
+  },
+  "homepage": "https://github.com/jspinella/coco-chanel-quotes#readme"
+}
