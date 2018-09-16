@@ -33,7 +33,7 @@ if (shouldSendQuote) {
         'You live but once; you might as well be amusing.',
         'Fashion has two purposes: comfort and love. Beauty comes when fashion succeeds.',
         'Elegance is refusal.',
-        'It is always better to be slightly underdressed',
+        'It is always better to be slightly underdressed.',
         'There is no time for cut-and-dry monotony. There is time for work. And time for love. That leaves no other time!',
     )
 
